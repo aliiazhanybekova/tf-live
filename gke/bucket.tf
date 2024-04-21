@@ -1,5 +1,5 @@
 module "gcs_bucket" {
   source      = "github.com/aliiazhanybekova/tf-modules"
-  bucket_name = "gke-tfstate"
+  bucket_name = "tfstate_bucket"
   location    = "US"
 }

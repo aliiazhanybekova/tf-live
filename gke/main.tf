@@ -1,4 +1,4 @@
-module "dev-gke_cluster" {
+module "gke_cluster" {
   source                       = "github.com/aliiazhanybekova/tf-modules"
   service_account_id           = "gke-service-account"
   service_account_display_name = "GKE Service Account"
