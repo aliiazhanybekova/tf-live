@@ -1,4 +1,4 @@
 provider "google" {
-  project = "seraphic-gate-420802"
+  project = "my-project2-421005"
   region  = "us-central1"
 }

@@ -4,5 +4,5 @@ module "gke_cluster" {
   service_account_display_name = "GKE Service Account"
   cluster_name                 = "dev-cluster"
   cluster_location             = "us-central1-a"
-  project_id                   = "seraphic-gate-420802"
+  project_id                   = "my-project2-421005"
 }
