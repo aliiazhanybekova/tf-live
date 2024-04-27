@@ -5,4 +5,5 @@ module "gke_cluster" {
   cluster_name                 = "dev-cluster"
   cluster_location             = "us-central1-a"
   project_id                   = "my-project2-421005"
+  
 }
